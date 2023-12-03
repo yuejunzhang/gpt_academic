@@ -86,7 +86,7 @@ services:
     image: ghcr.io/binary-husky/gpt_academic_nolocal:master # (Auto Built by Dockerfile: docs/GithubAction+NoLocal)
     environment:
       # 请查阅 `config.py` 以查看所有的配置信息
-      API_KEY:                  '    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                                           '
+      API_KEY:                  '    sk-api-xyhelper-cn-free-token-for-everyone-xyhelper                                           '
       USE_PROXY:                '    True                                                                                           '
       proxies:                  '    { "http": "socks5h://localhost:10880", "https": "socks5h://localhost:10880", }                 '
       LLM_MODEL:                '    gpt-3.5-turbo                                                                                  '
