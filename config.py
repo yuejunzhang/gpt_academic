@@ -74,7 +74,7 @@ TIMEOUT_SECONDS = 30
 
 
 # 网页的端口, -1代表随机端口
-WEB_PORT = -1
+WEB_PORT = 22303
 
 
 # 如果OpenAI不响应（网络卡顿、代理失败、KEY失效），重试的次数限制
