@@ -191,7 +191,7 @@ ANTHROPIC_API_KEY = ""
 
 
 # 自定义API KEY格式
-CUSTOM_API_KEY_PATTERN = ""
+CUSTOM_API_KEY_PATTERN = "sk-api-xyhelper-cn-free-token-for-everyone-xyhelper"
 
 
 # HUGGINGFACE的TOKEN，下载LLAMA时起作用 https://huggingface.co/docs/hub/security-tokens
